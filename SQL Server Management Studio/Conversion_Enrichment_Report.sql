@@ -1,4 +1,4 @@
-USE [Gilead_KT]
+USE [database_name]
 GO
 
 /****** Object:  View [dbo].[CONVERSION]    Script Date: 2/15/2023 8:01:27 PM ******/
