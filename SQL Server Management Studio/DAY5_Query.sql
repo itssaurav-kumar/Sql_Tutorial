@@ -1,4 +1,4 @@
-USE Gilead_KT
+USE Databse_name
 -----6.2(I)----
 
 SELECT MAX(SALARY) AS MAX,
