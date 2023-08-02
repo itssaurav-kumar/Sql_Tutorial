@@ -1,4 +1,4 @@
-USE [Gilead_KT]
+USE Databse_name
 GO
 
 /****** Object:  View [dbo].[RECONCILIATION_REPORT]    Script Date: 2/15/2023 8:00:31 PM ******/
