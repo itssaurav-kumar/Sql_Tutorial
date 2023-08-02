@@ -1,4 +1,4 @@
-use Gilead_KT
+use Databse_name
 
 select * from employees
 select * from JOB_HISTORY
